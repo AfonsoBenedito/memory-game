@@ -32,9 +32,11 @@
 - [Features](#features)
 - [Game Modes](#game-modes)
 - [Card Collections](#card-collections)
+- [Berry the Bear](#berry-the-bear)
 - [Pages](#pages)
 - [Technologies](#technologies)
 - [Authors](#authors)
+- [License](#license)
 
 ---
 
@@ -87,7 +89,7 @@ The mascot, **Berry the Bear**, guides you through the experience and appears in
 
 ## Card Collections
 
-The game features **6 card decks**, each with 15 unique illustrated cards:
+The game features **7 card decks**, each with 15 unique illustrated cards:
 
 | Deck | Characters |
 |---|---|
@@ -97,6 +99,7 @@ The game features **6 card decks**, each with 15 unique illustrated cards:
 | 🧽 **SpongeBob** | SpongeBob SquarePants cast |
 | 🐢 **TMNT** | Teenage Mutant Ninja Turtles |
 | 🐭 **Tom & Jerry** | Tom, Jerry, and their adventures |
+| 🧚 **Winx Club** | Fairies from the Winx Club series |
 
 All decks can be previewed in the [Contents](https://afonsobenedito.com/memory-game/Conteudos.html) section of the game.
 
@@ -173,6 +176,12 @@ Developed by three **Information Technologies** students from [Faculdade de Ciê
     </td>
   </tr>
 </table>
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
